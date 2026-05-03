@@ -27,7 +27,7 @@ It is September 1939. You have spent three weeks in a cold German cell, watched 
 *   **State Machine Logic**: The game engine is built using a robust Rust architecture to ensure seamless scene transitions and logic handling.
 ---
 ## How to Play
-1.  **Download**: Visit the  section of this repository and download the latest executabl.
+1.  **Download**: Visit the  section of this repository and download the latest executable.
 2.  **Run**: Launch the file. If Windows displays a "Protected Your PC" warning, click **More Info** followed by **Run Anyway**.
 3.  **Interact**: Read the prompts and type the number corresponding to your choice, then press **Enter** to proceed.
 
